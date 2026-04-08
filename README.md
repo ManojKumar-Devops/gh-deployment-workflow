@@ -6,7 +6,7 @@ This project demonstrates CI/CD using GitHub Actions.
 - Automatic deployment to GitHub Pages
 - Trigger only when `index.html` changes
 
-## 🌐 Live Project URL
+## 🌐 Project URL
 https://ManojKumar-Devops.github.io/gh-deployment-workflow/
 
 ## ⚙️ How it works
