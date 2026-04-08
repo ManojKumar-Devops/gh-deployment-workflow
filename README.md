@@ -10,6 +10,8 @@ This project demonstrates CI/CD using GitHub Actions.
 
 https://ManojKumar-Devops.github.io/gh-deployment-workflow/
 
+https://roadmap.sh/projects/github-actions-deployment-workflow
+
 ## ⚙️ How it works
 - Push changes to `main`
 - Workflow triggers only if `index.html` changes
